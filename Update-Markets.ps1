@@ -32,6 +32,7 @@ if ($Changes)
     $Miota.SymbolString = "IOTA"
     $Lilo | ConvertTo-Json | Out-File .\Markets.json
     Write-Host "UPDATING Markets.json"
+    git commit -m "Updated"
     git push
 }
 
