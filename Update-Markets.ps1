@@ -16,11 +16,10 @@ $matchingMarkets = $Markets | Where-Object {$_.symbol -in $Lilo.Markets.SymbolSt
 foreach ($Market in $matchingMarkets)
 {
     $LiloItem = $Lilo.Markets | Where-Object {$_.SymbolString -eq $Market.symbol}
-    #write-host "Found match: $($LiloItem.SymbolString)"
     if ($LiloItem.Rank -ne $Market.market_cap_rank)
     {
         $Changes = $true
-        write-host "`tRank: $($LiloItem.Rank) now $($Market.market_cap_rank)"
+        write-host "$($LiloItem.SymbolString) - Rank: $($LiloItem.Rank) now $($Market.market_cap_rank)"
         $LiloItem.Rank = $Market.market_cap_rank
     }
 }
