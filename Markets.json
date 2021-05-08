@@ -47,7 +47,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 15,
+      "Rank": 16,
       "SymbolString": "XLM"
     },
     {
@@ -67,12 +67,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 30,
+      "Rank": 28,
       "SymbolString": "ATOM"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 35,
+      "Rank": 33,
       "SymbolString": "AAVE"
     },
     {
@@ -82,47 +82,47 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 25,
+      "Rank": 24,
       "SymbolString": "XMR"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 20,
+      "Rank": 22,
       "SymbolString": "EOS"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 17,
+      "Rank": 19,
       "SymbolString": "TRX"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 29,
+      "Rank": 31,
       "SymbolString": "IOTA"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 19,
+      "Rank": 17,
       "SymbolString": "THETA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 57,
+      "Rank": 55,
       "SymbolString": "SNX"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 23,
+      "Rank": 25,
       "SymbolString": "NEO"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 33,
+      "Rank": 34,
       "SymbolString": "XTZ"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 28,
+      "Rank": 29,
       "SymbolString": "LUNA"
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 38,
+      "Rank": 35,
       "SymbolString": "FTT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 44,
+      "Rank": 48,
       "SymbolString": "DASH"
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 36,
+      "Rank": 38,
       "SymbolString": "AVAX"
     },
     {
@@ -162,27 +162,27 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 56,
+      "Rank": 61,
       "SymbolString": "SUSHI"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 42,
+      "Rank": 40,
       "SymbolString": "MKR"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 54,
+      "Rank": 53,
       "SymbolString": "EGLD"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 21,
+      "Rank": 20,
       "SymbolString": "FIL"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 81,
+      "Rank": 68,
       "SymbolString": "FTM"
     },
     {
@@ -192,17 +192,17 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 63,
+      "Rank": 62,
       "SymbolString": "DCR"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 31,
+      "Rank": 30,
       "SymbolString": "CAKE"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 85,
+      "Rank": 88,
       "SymbolString": "RVN"
     },
     {
@@ -212,12 +212,12 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 58,
+      "Rank": 59,
       "SymbolString": "ZIL"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 13,
+      "Rank": 15,
       "SymbolString": "ETC"
     },
     {
@@ -232,137 +232,137 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 48,
+      "Rank": 47,
       "SymbolString": "RUNE"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 78,
+      "Rank": 77,
       "SymbolString": "NEAR"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 83,
+      "Rank": 86,
       "SymbolString": "ZRX"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 118,
+      "Rank": 119,
       "SymbolString": "REN"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 53,
+      "Rank": 54,
       "SymbolString": "WAVES"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 82,
+      "Rank": 83,
       "SymbolString": "ICX"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 73,
+      "Rank": 70,
       "SymbolString": "STX"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 64,
+      "Rank": 65,
       "SymbolString": "HBAR"
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 32,
+      "Rank": 37,
       "SymbolString": "BTT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 41,
+      "Rank": 44,
       "SymbolString": "MATIC"
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 86,
+      "Rank": 89,
       "SymbolString": "IOST"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 39,
+      "Rank": 42,
       "SymbolString": "ALGO"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 99,
+      "Rank": 102,
       "SymbolString": "PAX"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 70,
+      "Rank": 69,
       "SymbolString": "DGB"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 69,
+      "Rank": 74,
       "SymbolString": "ONT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 94,
+      "Rank": 93,
       "SymbolString": "NANO"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 68,
+      "Rank": 71,
       "SymbolString": "BAT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 128,
+      "Rank": 130,
       "SymbolString": "LRC"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 79,
+      "Rank": 84,
       "SymbolString": "OMG"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 89,
+      "Rank": 91,
       "SymbolString": "BNT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 92,
+      "Rank": 82,
       "SymbolString": "ZEN"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 55,
+      "Rank": 60,
       "SymbolString": "QTUM"
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 126,
+      "Rank": 129,
       "SymbolString": "NPXS"
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 60,
+      "Rank": 58,
       "SymbolString": "HOT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 67,
+      "Rank": 66,
       "SymbolString": "ENJ"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 112,
+      "Rank": 109,
       "SymbolString": "CRV"
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 72,
+      "Rank": 75,
       "SymbolString": "SC"
     },
     {
