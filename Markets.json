@@ -32,12 +32,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 13,
+      "Rank": 14,
       "SymbolString": "LTC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 15,
+      "Rank": 13,
       "SymbolString": "LINK"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 18,
+      "Rank": 19,
       "SymbolString": "XLM"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 8,
+      "Rank": 7,
       "SymbolString": "DOGE"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 68,
+      "Rank": 69,
       "SymbolString": "XEM"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 14,
+      "Rank": 15,
       "SymbolString": "SOL"
     },
     {
@@ -107,12 +107,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 65,
+      "Rank": 63,
       "SymbolString": "SNX"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 47,
+      "Rank": 37,
       "SymbolString": "NEO"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 23,
+      "Rank": 22,
       "SymbolString": "VET"
     },
     {
@@ -157,27 +157,27 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 59,
+      "Rank": 57,
       "SymbolString": "KSM"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 67,
+      "Rank": 68,
       "SymbolString": "SUSHI"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 45,
+      "Rank": 46,
       "SymbolString": "MKR"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 60,
+      "Rank": 65,
       "SymbolString": "EGLD"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 27,
+      "Rank": 26,
       "SymbolString": "FIL"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 55,
+      "Rank": 54,
       "SymbolString": "DCR"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 115,
+      "Rank": 111,
       "SymbolString": "RVN"
     },
     {
@@ -212,17 +212,17 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 84,
+      "Rank": 85,
       "SymbolString": "ZIL"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 19,
+      "Rank": 18,
       "SymbolString": "ETC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 117,
+      "Rank": 119,
       "SymbolString": "UMA"
     },
     {
@@ -232,42 +232,42 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 70,
+      "Rank": 60,
       "SymbolString": "RUNE"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 87,
+      "Rank": 83,
       "SymbolString": "NEAR"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 108,
+      "Rank": 99,
       "SymbolString": "ZRX"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 140,
+      "Rank": 134,
       "SymbolString": "REN"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 64,
+      "Rank": 67,
       "SymbolString": "WAVES"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 110,
+      "Rank": 106,
       "SymbolString": "ICX"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 72,
+      "Rank": 70,
       "SymbolString": "STX"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 54,
+      "Rank": 55,
       "SymbolString": "HBAR"
     },
     {
@@ -282,22 +282,22 @@
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 111,
+      "Rank": 113,
       "SymbolString": "IOST"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 42,
+      "Rank": 43,
       "SymbolString": "ALGO"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 85,
+      "Rank": 89,
       "SymbolString": "PAX"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 104,
+      "Rank": 102,
       "SymbolString": "DGB"
     },
     {
@@ -307,12 +307,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 114,
+      "Rank": 115,
       "SymbolString": "NANO"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 88,
+      "Rank": 86,
       "SymbolString": "BAT"
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 113,
+      "Rank": 112,
       "SymbolString": "OMG"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 98,
+      "Rank": 94,
       "SymbolString": "QTUM"
     },
     {
@@ -352,12 +352,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 112,
+      "Rank": 114,
       "SymbolString": "CRV"
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 101,
+      "Rank": 96,
       "SymbolString": "SC"
     },
     {
