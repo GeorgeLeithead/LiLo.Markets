@@ -62,12 +62,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 99,
+      "Rank": 98,
       "SymbolString": "XEM"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 26,
+      "Rank": 27,
       "SymbolString": "ATOM"
     },
     {
@@ -122,12 +122,12 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 32,
+      "Rank": 33,
       "SymbolString": "VET"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 33,
+      "Rank": 32,
       "SymbolString": "FTT"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 93,
+      "Rank": 94,
       "SymbolString": "COMP"
     },
     {
@@ -217,12 +217,12 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 39,
+      "Rank": 40,
       "SymbolString": "HBAR"
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 55,
+      "Rank": 56,
       "SymbolString": "BTT"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 82,
+      "Rank": 81,
       "SymbolString": "HOT"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 40,
+      "Rank": 38,
       "SymbolString": "SAND"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 91,
+      "Rank": 92,
       "SymbolString": "CELO"
     },
     {
