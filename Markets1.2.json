@@ -42,7 +42,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 27,
+      "Rank": 26,
       "SymbolString": "BCH"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 31,
+      "Rank": 32,
       "SymbolString": "UNI"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 98,
+      "Rank": 100,
       "SymbolString": "XEM"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 50,
+      "Rank": 51,
       "SymbolString": "XMR"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 80,
+      "Rank": 77,
       "SymbolString": "NEO"
     },
     {
@@ -127,12 +127,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 29,
+      "Rank": 28,
       "SymbolString": "FTT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 92,
+      "Rank": 91,
       "SymbolString": "DASH"
     },
     {
@@ -152,17 +152,17 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 72,
+      "Rank": 71,
       "SymbolString": "KSM"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 66,
+      "Rank": 65,
       "SymbolString": "MKR"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 48,
+      "Rank": 47,
       "SymbolString": "EGLD"
     },
     {
@@ -172,27 +172,27 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 26,
+      "Rank": 29,
       "SymbolString": "FTM"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 104,
+      "Rank": 106,
       "SymbolString": "COMP"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 61,
+      "Rank": 62,
       "SymbolString": "CAKE"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 87,
+      "Rank": 86,
       "SymbolString": "ZEC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 42,
+      "Rank": 40,
       "SymbolString": "ETC"
     },
     {
@@ -207,12 +207,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 91,
+      "Rank": 92,
       "SymbolString": "WAVES"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 71,
+      "Rank": 68,
       "SymbolString": "STX"
     },
     {
@@ -237,32 +237,32 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 82,
+      "Rank": 78,
       "SymbolString": "BAT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 78,
+      "Rank": 81,
       "SymbolString": "LRC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 126,
+      "Rank": 125,
       "SymbolString": "QTUM"
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 108,
+      "Rank": 109,
       "SymbolString": "HOT"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 73,
+      "Rank": 69,
       "SymbolString": "ENJ"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 85,
+      "Rank": 84,
       "SymbolString": "CRV"
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 38,
+      "Rank": 39,
       "SymbolString": "AXS"
     },
     {
@@ -282,27 +282,27 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 43,
+      "Rank": 42,
       "SymbolString": "SAND"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 39,
+      "Rank": 38,
       "SymbolString": "MANA"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 47,
+      "Rank": 48,
       "SymbolString": "HNT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 65,
+      "Rank": 64,
       "SymbolString": "FLOW"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 40,
+      "Rank": 43,
       "SymbolString": "KLAY"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 68,
+      "Rank": 67,
       "SymbolString": "AR"
     },
     {
@@ -332,17 +332,17 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 62,
+      "Rank": 61,
       "SymbolString": "TFUEL"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 84,
+      "Rank": 82,
       "SymbolString": "CELO"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 110,
+      "Rank": 113,
       "SymbolString": "IOTX"
     }
   ]
