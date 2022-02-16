@@ -189,7 +189,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 82,
+      "Rank": 83,
       "SymbolString": "ZEC"
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 86,
+      "Rank": 87,
       "SymbolString": "RUNE"
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 92,
+      "Rank": 93,
       "SymbolString": "LRC"
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 83,
+      "Rank": 82,
       "SymbolString": "AMP"
     },
     {
@@ -349,7 +349,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 128,
+      "Rank": 129,
       "SymbolString": "BNT"
     },
     {
@@ -364,7 +364,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 139,
+      "Rank": 138,
       "SymbolString": "ICX"
     },
     {
@@ -465,17 +465,17 @@
     {
       "SymbolString": "LPT",
       "DecimalPlaces": 2,
-      "Rank": 127
+      "Rank": 128
     },
     {
       "SymbolString": "ANKR",
       "DecimalPlaces": 5,
-      "Rank": 132
+      "Rank": 133
     },
     {
       "SymbolString": "BTG",
       "DecimalPlaces": 2,
-      "Rank": 138
+      "Rank": 139
     },
     {
       "SymbolString": "SYS",
@@ -516,6 +516,56 @@
       "SymbolString": "POWR",
       "DecimalPlaces": 4,
       "Rank": 240
+    },
+    {
+      "SymbolString": "GALA",
+      "DecimalPlaces": 5,
+      "Rank": 56
+    },
+    {
+      "SymbolString": "FXS",
+      "DecimalPlaces": 3,
+      "Rank": 74
+    },
+    {
+      "SymbolString": "CVX",
+      "DecimalPlaces": 2,
+      "Rank": 84
+    },
+    {
+      "SymbolString": "ROSE",
+      "DecimalPlaces": 5,
+      "Rank": 97
+    },
+    {
+      "SymbolString": "SCRT",
+      "DecimalPlaces": 3,
+      "Rank": 96
+    },
+    {
+      "SymbolString": "USDP",
+      "DecimalPlaces": 4,
+      "Rank": 99
+    },
+    {
+      "SymbolString": "SLP",
+      "DecimalPlaces": 4,
+      "Rank": 103
+    },
+    {
+      "SymbolString": "MINA",
+      "DecimalPlaces": 3,
+      "Rank": 104
+    },
+    {
+      "SymbolString": "1INCH",
+      "DecimalPlaces": 3,
+      "Rank": 119
+    },
+    {
+      "SymbolString": "WAXP",
+      "DecimalPlaces": 4,
+      "Rank": 130
     }
   ]
 }

@@ -4,7 +4,7 @@ $SymbolsToIgnore = @(
 	"usdt", # Stable Coin
 	"usdc", # Stable coin
 	"miota", # AKA IOTA
-	"cro", # Not on binance
+	"cro" # Not on binance
 )
 $MissingMarketsInLiLo = @()
 foreach($Market in $Markets)
@@ -17,8 +17,6 @@ foreach($Market in $Markets)
 		}
 	}
 }
-
-Write-Host $Market
 
 $BinanceMarkets = Invoke-RestMethod "https://api.binance.com/api/v3/exchangeInfo"
 $BinanceMarketsUsdt = $BinanceMarkets.symbols | Where-Object quoteAsset -eq "USDT" | Where-Object status -eq "TRADING" | Where-Object permissions -contains "SPOT"
@@ -47,7 +45,7 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 	}
 }
 
-$SymbolsWithIcons = @('TUSD', 'GNO', 'LPT', 'ANKR', 'BTG', 'SYS', 'SKL', 'POLY', 'PAXG', 'FLUX', 'DENT', 'LSK', 'POWR')
+$SymbolsWithIcons = @('GALA', 'FXS', 'CVX', 'ROSE', 'SCRT', 'USDP', 'SLP', 'MINA', '1INCH', 'WAXP')
 
 # This is the JSON to add to Markets.json
 $MissingFromLiLo | Where-Object SymbolString -in $SymbolsWithIcons | Sort-Object Rank | ConvertTo-Json
