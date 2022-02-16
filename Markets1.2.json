@@ -47,7 +47,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 30,
+      "Rank": 31,
       "SymbolString": "XLM"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 99,
+      "Rank": 101,
       "SymbolString": "XEM"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 69,
+      "Rank": 70,
       "SymbolString": "NEO"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 49,
+      "Rank": 50,
       "SymbolString": "GRT"
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 77,
+      "Rank": 79,
       "SymbolString": "KSM"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 111,
+      "Rank": 112,
       "SymbolString": "COMP"
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 81,
+      "Rank": 82,
       "SymbolString": "ZEC"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 98,
+      "Rank": 100,
       "SymbolString": "WAVES"
     },
     {
@@ -257,12 +257,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 67,
+      "Rank": 68,
       "SymbolString": "ENJ"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 90,
+      "Rank": 91,
       "SymbolString": "CRV"
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 37,
+      "Rank": 36,
       "SymbolString": "AXS"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 36,
+      "Rank": 37,
       "SymbolString": "SAND"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 52,
+      "Rank": 54,
       "SymbolString": "HNT"
     },
     {
@@ -317,7 +317,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 80,
+      "Rank": 83,
       "SymbolString": "AMP"
     },
     {
@@ -327,7 +327,7 @@
     },
     {
       "DecimalPlaces": 1,
-      "Rank": 71,
+      "Rank": 72,
       "SymbolString": "QNT"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 91,
+      "Rank": 90,
       "SymbolString": "CELO"
     },
     {

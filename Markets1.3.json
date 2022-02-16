@@ -49,7 +49,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 30,
+      "Rank": 31,
       "SymbolString": "XLM"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 99,
+      "Rank": 101,
       "SymbolString": "XEM"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 69,
+      "Rank": 70,
       "SymbolString": "NEO"
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 49,
+      "Rank": 50,
       "SymbolString": "GRT"
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 77,
+      "Rank": 79,
       "SymbolString": "KSM"
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 111,
+      "Rank": 112,
       "SymbolString": "COMP"
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 81,
+      "Rank": 82,
       "SymbolString": "ZEC"
     },
     {
@@ -209,7 +209,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 98,
+      "Rank": 100,
       "SymbolString": "WAVES"
     },
     {
@@ -259,12 +259,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 67,
+      "Rank": 68,
       "SymbolString": "ENJ"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 90,
+      "Rank": 91,
       "SymbolString": "CRV"
     },
     {
@@ -274,7 +274,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 37,
+      "Rank": 36,
       "SymbolString": "AXS"
     },
     {
@@ -284,7 +284,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 36,
+      "Rank": 37,
       "SymbolString": "SAND"
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 52,
+      "Rank": 54,
       "SymbolString": "HNT"
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 80,
+      "Rank": 83,
       "SymbolString": "AMP"
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "DecimalPlaces": 1,
-      "Rank": 71,
+      "Rank": 72,
       "SymbolString": "QNT"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 91,
+      "Rank": 90,
       "SymbolString": "CELO"
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 106,
+      "Rank": 107,
       "SymbolString": "DCR"
     },
     {
@@ -404,7 +404,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 122,
+      "Rank": 123,
       "SymbolString": "RVN"
     },
     {
@@ -414,7 +414,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 100,
+      "Rank": 98,
       "SymbolString": "SNX"
     },
     {
@@ -434,7 +434,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 113,
+      "Rank": 114,
       "SymbolString": "YFI"
     },
     {
@@ -451,6 +451,71 @@
       "DecimalPlaces": 4,
       "Rank": 142,
       "SymbolString": "ZRX"
+    },
+    {
+      "SymbolString": "TUSD",
+      "DecimalPlaces": 4,
+      "Rank": 80
+    },
+    {
+      "SymbolString": "GNO",
+      "DecimalPlaces": 1,
+      "Rank": 124
+    },
+    {
+      "SymbolString": "LPT",
+      "DecimalPlaces": 2,
+      "Rank": 127
+    },
+    {
+      "SymbolString": "ANKR",
+      "DecimalPlaces": 5,
+      "Rank": 132
+    },
+    {
+      "SymbolString": "BTG",
+      "DecimalPlaces": 2,
+      "Rank": 138
+    },
+    {
+      "SymbolString": "SYS",
+      "DecimalPlaces": 4,
+      "Rank": 156
+    },
+    {
+      "SymbolString": "SKL",
+      "DecimalPlaces": 4,
+      "Rank": 159
+    },
+    {
+      "SymbolString": "POLY",
+      "DecimalPlaces": 4,
+      "Rank": 181
+    },
+    {
+      "SymbolString": "PAXG",
+      "DecimalPlaces": 0,
+      "Rank": 184
+    },
+    {
+      "SymbolString": "FLUX",
+      "DecimalPlaces": 3,
+      "Rank": 186
+    },
+    {
+      "SymbolString": "DENT",
+      "DecimalPlaces": 6,
+      "Rank": 219
+    },
+    {
+      "SymbolString": "LSK",
+      "DecimalPlaces": 3,
+      "Rank": 230
+    },
+    {
+      "SymbolString": "POWR",
+      "DecimalPlaces": 4,
+      "Rank": 240
     }
   ]
 }
