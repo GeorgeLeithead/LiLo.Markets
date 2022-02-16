@@ -62,7 +62,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 101,
+      "Rank": 102,
       "SymbolString": "XEM"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 85,
+      "Rank": 86,
       "SymbolString": "RUNE"
     },
     {
@@ -252,12 +252,12 @@
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 109,
+      "Rank": 108,
       "SymbolString": "HOT"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 67,
+      "Rank": 68,
       "SymbolString": "ENJ"
     },
     {
@@ -272,17 +272,17 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 36,
+      "Rank": 37,
       "SymbolString": "AXS"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 38,
+      "Rank": 36,
       "SymbolString": "ICP"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 37,
+      "Rank": 38,
       "SymbolString": "SAND"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 52,
+      "Rank": 53,
       "SymbolString": "HNT"
     },
     {
@@ -312,17 +312,17 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 72,
+      "Rank": 73,
       "SymbolString": "AR"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 82,
+      "Rank": 80,
       "SymbolString": "AMP"
     },
     {
       "DecimalPlaces": 8,
-      "Rank": 74,
+      "Rank": 75,
       "SymbolString": "XEC"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 91,
+      "Rank": 92,
       "SymbolString": "CELO"
     },
     {
