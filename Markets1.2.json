@@ -62,7 +62,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 101,
+      "Rank": 102,
       "SymbolString": "XEM"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 87,
+      "Rank": 86,
       "SymbolString": "RUNE"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 100,
+      "Rank": 101,
       "SymbolString": "WAVES"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 108,
+      "Rank": 109,
       "SymbolString": "HOT"
     },
     {
@@ -327,7 +327,7 @@
     },
     {
       "DecimalPlaces": 1,
-      "Rank": 72,
+      "Rank": 71,
       "SymbolString": "QNT"
     },
     {
@@ -342,7 +342,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 109,
+      "Rank": 110,
       "SymbolString": "IOTX"
     }
   ]
