@@ -62,7 +62,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 102,
+      "Rank": 101,
       "SymbolString": "XEM"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 70,
+      "Rank": 69,
       "SymbolString": "NEO"
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 95,
+      "Rank": 94,
       "SymbolString": "DASH"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 50,
+      "Rank": 49,
       "SymbolString": "GRT"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 112,
+      "Rank": 111,
       "SymbolString": "COMP"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 86,
+      "Rank": 85,
       "SymbolString": "RUNE"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 101,
+      "Rank": 100,
       "SymbolString": "WAVES"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 34,
+      "Rank": 35,
       "SymbolString": "HBAR"
     },
     {
@@ -257,12 +257,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 68,
+      "Rank": 67,
       "SymbolString": "ENJ"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 91,
+      "Rank": 90,
       "SymbolString": "CRV"
     },
     {
@@ -287,12 +287,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 35,
+      "Rank": 34,
       "SymbolString": "MANA"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 54,
+      "Rank": 52,
       "SymbolString": "HNT"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 73,
+      "Rank": 72,
       "SymbolString": "AR"
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "DecimalPlaces": 8,
-      "Rank": 75,
+      "Rank": 74,
       "SymbolString": "XEC"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 90,
+      "Rank": 91,
       "SymbolString": "CELO"
     },
     {
