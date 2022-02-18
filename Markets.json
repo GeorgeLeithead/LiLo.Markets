@@ -42,7 +42,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 26,
+      "Rank": 27,
       "SymbolString": "BCH"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 42,
+      "Rank": 43,
       "SymbolString": "THETA"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 123,
+      "Rank": 125,
       "SymbolString": "RVN"
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 124,
+      "Rank": 123,
       "SymbolString": "ZIL"
     },
     {
@@ -287,7 +287,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 27,
+      "Rank": 26,
       "SymbolString": "ALGO"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 90,
+      "Rank": 91,
       "SymbolString": "BAT"
     },
     {

@@ -45,7 +45,15 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 	}
 }
 
-$SymbolsWithIcons = @('GALA', 'FXS', 'CVX', 'ROSE', 'SCRT', 'USDP', 'SLP', 'MINA', '1INCH', 'WAXP')
+$SymbolsWithIcons = @('CHZ','AUDIO','KAVA', 'IMX', 'CKB', 'HIVE', 'ANY', 'JST', 'ENS', 'C98')
 
 # This is the JSON to add to Markets.json
 $MissingFromLiLo | Where-Object SymbolString -in $SymbolsWithIcons | Sort-Object Rank | ConvertTo-Json
+
+# This copies the generated images to the hosting site.
+$ImagesCopyFrom = "..\LiLo.CryptoImages\LiLo.CryptoImages\LiLo.CryptoImages\LiLo.CryptoImages.Android\obj\Debug\120\resizetize\r\drawable-xxxhdpi"
+$OneInchRenameFrom = "\oneinch.png"
+$OneInchRenameTo = "1inch.png"
+Rename-Item -path $($ImagesCopyFrom + $OneInchRenameFrom) -newname $OneInchRenameTo
+$ImagesCopyTo = "..\InternetWideWorldStatic\Client\wwwroot\Images\Droid\drawable-xxxhdpi"
+Copy-Item -path $($ImagesCopyFrom + "\*") -Destination $ImagesCopyTo
