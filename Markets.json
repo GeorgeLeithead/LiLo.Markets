@@ -42,7 +42,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 27,
+      "Rank": 28,
       "SymbolString": "BCH"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 66,
+      "Rank": 63,
       "SymbolString": "AAVE"
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 59,
+      "Rank": 58,
       "SymbolString": "EOS"
     },
     {
@@ -97,22 +97,22 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 58,
+      "Rank": 59,
       "SymbolString": "IOTA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 48,
+      "Rank": 49,
       "SymbolString": "THETA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 96,
+      "Rank": 98,
       "SymbolString": "SNX"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 75,
+      "Rank": 78,
       "SymbolString": "NEO"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 41,
+      "Rank": 43,
       "SymbolString": "VET"
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 54,
+      "Rank": 53,
       "SymbolString": "GRT"
     },
     {
@@ -157,32 +157,32 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 89,
+      "Rank": 87,
       "SymbolString": "KSM"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 130,
+      "Rank": 131,
       "SymbolString": "SUSHI"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 68,
+      "Rank": 67,
       "SymbolString": "MKR"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 43,
+      "Rank": 39,
       "SymbolString": "EGLD"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 40,
+      "Rank": 42,
       "SymbolString": "FIL"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 44,
+      "Rank": 47,
       "SymbolString": "FTM"
     },
     {
@@ -197,12 +197,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 65,
+      "Rank": 66,
       "SymbolString": "CAKE"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 136,
+      "Rank": 134,
       "SymbolString": "RVN"
     },
     {
@@ -212,12 +212,12 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 128,
+      "Rank": 129,
       "SymbolString": "ZIL"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 35,
+      "Rank": 36,
       "SymbolString": "ETC"
     },
     {
@@ -227,12 +227,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 112,
+      "Rank": 113,
       "SymbolString": "YFI"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 60,
+      "Rank": 54,
       "SymbolString": "RUNE"
     },
     {
@@ -257,12 +257,12 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 121,
+      "Rank": 125,
       "SymbolString": "ICX"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 79,
+      "Rank": 80,
       "SymbolString": "STX"
     },
     {
@@ -272,17 +272,17 @@
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 64,
+      "Rank": 65,
       "SymbolString": "BTT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 18,
+      "Rank": 19,
       "SymbolString": "MATIC"
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 140,
+      "Rank": 137,
       "SymbolString": "IOST"
     },
     {
@@ -312,32 +312,32 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 90,
+      "Rank": 89,
       "SymbolString": "BAT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 98,
+      "Rank": 97,
       "SymbolString": "LRC"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 129,
+      "Rank": 130,
       "SymbolString": "OMG"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 127,
+      "Rank": 124,
       "SymbolString": "BNT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 151,
+      "Rank": 150,
       "SymbolString": "ZEN"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 117,
+      "Rank": 119,
       "SymbolString": "QTUM"
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 101,
+      "Rank": 102,
       "SymbolString": "CRV"
     },
     {
