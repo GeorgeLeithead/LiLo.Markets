@@ -47,7 +47,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 32,
+      "Rank": 31,
       "SymbolString": "XLM"
     },
     {
@@ -62,17 +62,17 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 100,
+      "Rank": 101,
       "SymbolString": "XEM"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 21,
+      "Rank": 22,
       "SymbolString": "ATOM"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 59,
+      "Rank": 61,
       "SymbolString": "AAVE"
     },
     {
@@ -97,17 +97,17 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 60,
+      "Rank": 59,
       "SymbolString": "IOTA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 47,
+      "Rank": 45,
       "SymbolString": "THETA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 72,
+      "Rank": 67,
       "SymbolString": "NEO"
     },
     {
@@ -127,17 +127,17 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 27,
+      "Rank": 28,
       "SymbolString": "FTT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 84,
+      "Rank": 83,
       "SymbolString": "DASH"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 53,
+      "Rank": 52,
       "SymbolString": "GRT"
     },
     {
@@ -152,22 +152,22 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 78,
+      "Rank": 77,
       "SymbolString": "KSM"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 64,
+      "Rank": 66,
       "SymbolString": "MKR"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 35,
+      "Rank": 36,
       "SymbolString": "EGLD"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 44,
+      "Rank": 42,
       "SymbolString": "FIL"
     },
     {
@@ -177,12 +177,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 109,
+      "Rank": 112,
       "SymbolString": "COMP"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 62,
+      "Rank": 64,
       "SymbolString": "CAKE"
     },
     {
@@ -192,12 +192,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 28,
+      "Rank": 27,
       "SymbolString": "ETC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 52,
+      "Rank": 55,
       "SymbolString": "RUNE"
     },
     {
@@ -207,12 +207,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 45,
+      "Rank": 44,
       "SymbolString": "WAVES"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 83,
+      "Rank": 84,
       "SymbolString": "STX"
     },
     {
@@ -242,12 +242,12 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 96,
+      "Rank": 79,
       "SymbolString": "LRC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 111,
+      "Rank": 106,
       "SymbolString": "QTUM"
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 102,
+      "Rank": 105,
       "SymbolString": "CRV"
     },
     {
@@ -272,12 +272,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 36,
+      "Rank": 37,
       "SymbolString": "AXS"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 37,
+      "Rank": 35,
       "SymbolString": "ICP"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 55,
+      "Rank": 54,
       "SymbolString": "HNT"
     },
     {
@@ -302,32 +302,32 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 46,
+      "Rank": 47,
       "SymbolString": "KLAY"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 69,
+      "Rank": 72,
       "SymbolString": "ONE"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 71,
+      "Rank": 74,
       "SymbolString": "AR"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 87,
+      "Rank": 89,
       "SymbolString": "AMP"
     },
     {
       "DecimalPlaces": 8,
-      "Rank": 74,
+      "Rank": 76,
       "SymbolString": "XEC"
     },
     {
       "DecimalPlaces": 1,
-      "Rank": 73,
+      "Rank": 70,
       "SymbolString": "QNT"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 89,
+      "Rank": 87,
       "SymbolString": "CELO"
     },
     {
