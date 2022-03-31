@@ -17,7 +17,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 7,
+      "Rank": 8,
       "SymbolString": "ADA"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 103,
+      "Rank": 105,
       "SymbolString": "XEM"
     },
     {
@@ -72,12 +72,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 50,
+      "Rank": 51,
       "SymbolString": "AAVE"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 9,
+      "Rank": 7,
       "SymbolString": "SOL"
     },
     {
@@ -97,17 +97,17 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 59,
+      "Rank": 58,
       "SymbolString": "IOTA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 42,
+      "Rank": 41,
       "SymbolString": "THETA"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 65,
+      "Rank": 67,
       "SymbolString": "NEO"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 8,
+      "Rank": 9,
       "SymbolString": "LUNA"
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 87,
+      "Rank": 88,
       "SymbolString": "DASH"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 51,
+      "Rank": 50,
       "SymbolString": "GRT"
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 66,
+      "Rank": 69,
       "SymbolString": "MKR"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 47,
+      "Rank": 46,
       "SymbolString": "FTM"
     },
     {
@@ -182,12 +182,12 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 60,
+      "Rank": 57,
       "SymbolString": "CAKE"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 62,
+      "Rank": 61,
       "SymbolString": "ZEC"
     },
     {
@@ -207,22 +207,22 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 36,
+      "Rank": 37,
       "SymbolString": "WAVES"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 82,
+      "Rank": 83,
       "SymbolString": "STX"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 37,
+      "Rank": 36,
       "SymbolString": "HBAR"
     },
     {
       "DecimalPlaces": 7,
-      "Rank": 68,
+      "Rank": 64,
       "SymbolString": "BTT"
     },
     {
@@ -237,32 +237,32 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 91,
+      "Rank": 90,
       "SymbolString": "BAT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 83,
+      "Rank": 82,
       "SymbolString": "LRC"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 112,
+      "Rank": 115,
       "SymbolString": "QTUM"
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 98,
+      "Rank": 99,
       "SymbolString": "HOT"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 80,
+      "Rank": 77,
       "SymbolString": "ENJ"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 102,
+      "Rank": 104,
       "SymbolString": "CRV"
     },
     {
@@ -282,22 +282,22 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 43,
+      "Rank": 42,
       "SymbolString": "SAND"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 41,
+      "Rank": 43,
       "SymbolString": "MANA"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 57,
+      "Rank": 60,
       "SymbolString": "HNT"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 56,
+      "Rank": 59,
       "SymbolString": "FLOW"
     },
     {
@@ -307,17 +307,17 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 69,
+      "Rank": 65,
       "SymbolString": "ONE"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 72,
+      "Rank": 68,
       "SymbolString": "AR"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 94,
+      "Rank": 93,
       "SymbolString": "AMP"
     },
     {
@@ -327,7 +327,7 @@
     },
     {
       "DecimalPlaces": 1,
-      "Rank": 71,
+      "Rank": 70,
       "SymbolString": "QNT"
     },
     {
@@ -342,7 +342,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 113,
+      "Rank": 106,
       "SymbolString": "IOTX"
     }
   ]
