@@ -47,7 +47,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 30,
+      "Rank": 31,
       "SymbolString": "XLM"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 79,
+      "Rank": 78,
       "SymbolString": "NEO"
     },
     {
@@ -157,12 +157,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 80,
+      "Rank": 76,
       "SymbolString": "KSM"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 136,
+      "Rank": 137,
       "SymbolString": "SUSHI"
     },
     {
@@ -172,12 +172,12 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 41,
+      "Rank": 40,
       "SymbolString": "EGLD"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 39,
+      "Rank": 38,
       "SymbolString": "FIL"
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 104,
+      "Rank": 102,
       "SymbolString": "COMP"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 31,
+      "Rank": 30,
       "SymbolString": "ETC"
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 128,
+      "Rank": 129,
       "SymbolString": "YFI"
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 145,
+      "Rank": 144,
       "SymbolString": "ICX"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "DecimalPlaces": 6,
-      "Rank": 129,
+      "Rank": 127,
       "SymbolString": "IOST"
     },
     {
@@ -312,22 +312,22 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 96,
+      "Rank": 94,
       "SymbolString": "BAT"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 95,
+      "Rank": 96,
       "SymbolString": "LRC"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 133,
+      "Rank": 131,
       "SymbolString": "OMG"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 144,
+      "Rank": 145,
       "SymbolString": "BNT"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 126,
+      "Rank": 122,
       "SymbolString": "QTUM"
     },
     {
