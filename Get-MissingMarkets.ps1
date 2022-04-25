@@ -50,7 +50,7 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 $MissingFromLiLo
 exit 0
 # Only do the below when you have the SVG images
-$SymbolsWithIcons = @('KDA', 'SRM','OGN','BSW','XNO','INJ','TRIBE','FET')
+$SymbolsWithIcons = @('APE')
 
 # This is the JSON to add to Markets.json
 $MissingFromLiLo | Where-Object SymbolString -in $SymbolsWithIcons | Sort-Object Rank | ConvertTo-Json

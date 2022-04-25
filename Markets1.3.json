@@ -769,6 +769,12 @@
       "DecimalPlaces": 4,
       "Rank": 250,
       "DisplayName": "Fetch.ai (FET)"
+    },
+    {
+      "SymbolString": "APE",
+      "DecimalPlaces": 4,
+      "Rank": 31,
+      "DisplayName": "ApeCoin (APE)"
     }
   ]
 }
