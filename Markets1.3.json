@@ -721,6 +721,54 @@
       "DecimalPlaces": 3,
       "Rank": 204,
       "DisplayName": "Coin98 (C98)"
+    },
+    {
+      "SymbolString": "KDA",
+      "DecimalPlaces": 3,
+      "Rank": 109,
+      "DisplayName": "Kadena (KDA)"
+    },
+    {
+      "SymbolString": "SRM",
+      "DecimalPlaces": 3,
+      "Rank": 137,
+      "DisplayName": "Serum (SRM)"
+    },
+    {
+      "SymbolString": "OGN",
+      "DecimalPlaces": 4,
+      "Rank": 216,
+      "DisplayName": "Origin Protocol (OGN)"
+    },
+    {
+      "SymbolString": "BSW",
+      "DecimalPlaces": 4,
+      "Rank": 219,
+      "DisplayName": "Biswap (BSW)"
+    },
+    {
+      "SymbolString": "XNO",
+      "DecimalPlaces": 3,
+      "Rank": 223,
+      "DisplayName": "Nano (XNO)"
+    },
+    {
+      "SymbolString": "INJ",
+      "DecimalPlaces": 3,
+      "Rank": 235,
+      "DisplayName": "Injective (INJ)"
+    },
+    {
+      "SymbolString": "TRIBE",
+      "DecimalPlaces": 4,
+      "Rank": 249,
+      "DisplayName": "Tribe (TRIBE)"
+    },
+    {
+      "SymbolString": "FET",
+      "DecimalPlaces": 4,
+      "Rank": 250,
+      "DisplayName": "Fetch.ai (FET)"
     }
   ]
 }

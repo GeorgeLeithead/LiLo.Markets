@@ -35,17 +35,22 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 		}
 
 		$Rank = $Markets | Where-Object {$_.symbol -eq $Symbol} | select market_cap_rank
+		$DisplayName = $Markets | Where-Object {$_.symbol -eq $Symbol} | select name
 
 		$NewMarket = [PsCustomObject]@{
 			SymbolString = $Symbol.ToUpper()
 			DecimalPlaces = $TickSize
 			Rank = $Rank.market_cap_rank
+			DisplayName = $DisplayName.name + " (" + $Symbol.ToUpper() + ")"
 		}
 		$MissingFromLiLo += $NewMarket
 	}
 }
 
-$SymbolsWithIcons = @('CHZ','AUDIO','KAVA', 'IMX', 'CKB', 'HIVE', 'ANY', 'JST', 'ENS', 'C98')
+$MissingFromLiLo
+exit 0
+# Only do the below when you have the SVG images
+$SymbolsWithIcons = @('KDA', 'SRM','OGN','BSW','XNO','INJ','TRIBE','FET')
 
 # This is the JSON to add to Markets.json
 $MissingFromLiLo | Where-Object SymbolString -in $SymbolsWithIcons | Sort-Object Rank | ConvertTo-Json
