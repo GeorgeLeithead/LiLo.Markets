@@ -4,7 +4,8 @@ $SymbolsToIgnore = @(
 	"usdt", # Stable Coin
 	"usdc", # Stable coin
 	"miota", # AKA IOTA
-	"cro" # Not on binance
+	"cro", # Not on binance
+	"ust"
 )
 $MissingMarketsInLiLo = @()
 foreach($Market in $Markets)
