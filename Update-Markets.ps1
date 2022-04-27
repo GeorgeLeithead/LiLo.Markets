@@ -6,7 +6,7 @@ git pull origin main
 Write-Host "Getting CoinGeco feed..."
 $Markets = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=150&page=1&sparkline=false"
 $MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending
-$MarketFile = $MarketFiles[0]
+$MarketFile = $MarketFiles[0] # To target only the latest markets file.
 #foreach($MarketFile in $MarketFiles)
 #{
     [bool]$Changes = $false
