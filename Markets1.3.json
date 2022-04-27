@@ -88,7 +88,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 53,
+      "Rank": 52,
       "SymbolString": "AAVE",
       "DisplayName": "AAVE (AAVE)"
     },
@@ -106,7 +106,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 55,
+      "Rank": 56,
       "SymbolString": "EOS",
       "DisplayName": "EOS (EOS)"
     },
@@ -220,7 +220,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 56,
+      "Rank": 55,
       "SymbolString": "CAKE",
       "DisplayName": "PancakeSwap (CAKE)"
     },
@@ -238,7 +238,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 52,
+      "Rank": 53,
       "SymbolString": "RUNE",
       "DisplayName": "THORChain (RUNE)"
     },
@@ -280,7 +280,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 98,
+      "Rank": 97,
       "SymbolString": "BAT",
       "DisplayName": "Basic Attention Token (BAT)"
     },
@@ -292,7 +292,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 127,
+      "Rank": 126,
       "SymbolString": "QTUM",
       "DisplayName": "QTUM (QTUM)"
     },
@@ -376,7 +376,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 97,
+      "Rank": 98,
       "SymbolString": "AMP",
       "DisplayName": "AMP (AMP)"
     },
@@ -388,7 +388,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 80,
+      "Rank": 81,
       "SymbolString": "QNT",
       "DisplayName": "Quant (QNT)"
     },
@@ -436,13 +436,13 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 126,
+      "Rank": 127,
       "SymbolString": "IOST",
       "DisplayName": "IOST (ISOT)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 140,
+      "Rank": 138,
       "SymbolString": "KNC",
       "DisplayName": "Kyber Network Crystal (KNC)"
     },
@@ -514,7 +514,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 81,
+      "Rank": 80,
       "SymbolString": "ZIL",
       "DisplayName": "Zilliqa (ZIL)"
     },
@@ -563,7 +563,7 @@
     {
       "SymbolString": "SKL",
       "DecimalPlaces": 4,
-      "Rank": 143,
+      "Rank": 145,
       "DisplayName": "SKALE (SKL)"
     },
     {
@@ -575,7 +575,7 @@
     {
       "SymbolString": "PAXG",
       "DecimalPlaces": 2,
-      "Rank": 131,
+      "Rank": 130,
       "DisplayName": "PAX Gold (PAXG)"
     },
     {
@@ -641,7 +641,7 @@
     {
       "SymbolString": "SLP",
       "DecimalPlaces": 4,
-      "Rank": 144,
+      "Rank": 147,
       "DisplayName": "Smooth Love Potion (SLP)"
     },
     {
