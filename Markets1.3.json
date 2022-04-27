@@ -70,7 +70,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 10,
+      "Rank": 12,
       "SymbolString": "DOGE",
       "DisplayName": "Dogecoin (DOGE)"
     },
@@ -88,7 +88,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 54,
+      "Rank": 53,
       "SymbolString": "AAVE",
       "DisplayName": "AAVE (AAVE)"
     },
@@ -124,7 +124,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 46,
+      "Rank": 47,
       "SymbolString": "THETA",
       "DisplayName": "Theta Network (THETA)"
     },
@@ -172,7 +172,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 12,
+      "Rank": 10,
       "SymbolString": "AVAX",
       "DisplayName": "Avalanche (AVAX)"
     },
@@ -304,13 +304,13 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 88,
+      "Rank": 87,
       "SymbolString": "ENJ",
       "DisplayName": "Enjin Coin (ENJ)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 99,
+      "Rank": 100,
       "SymbolString": "CRV",
       "DisplayName": "Curve DAO Token (CRV)"
     },
@@ -340,13 +340,13 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 47,
+      "Rank": 45,
       "SymbolString": "MANA",
       "DisplayName": "Decentraland (MANA)"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 66,
+      "Rank": 67,
       "SymbolString": "HNT",
       "DisplayName": "Helium (HNT)"
     },
@@ -358,7 +358,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 53,
+      "Rank": 54,
       "SymbolString": "KLAY",
       "DisplayName": "Klaytn (KLAY)"
     },
@@ -430,7 +430,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 144,
+      "Rank": 142,
       "SymbolString": "ICX",
       "DisplayName": "ICON (ICX)"
     },
@@ -514,20 +514,20 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 82,
+      "Rank": 81,
       "SymbolString": "ZIL",
       "DisplayName": "Zilliqa (ZIL)"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 116,
+      "Rank": 115,
       "SymbolString": "ZRX",
       "DisplayName": "0x (ZRX)"
     },
     {
       "SymbolString": "TUSD",
       "DecimalPlaces": 4,
-      "Rank": 81,
+      "Rank": 82,
       "DisplayName": "TrueUSD (TUSD)"
     },
     {
@@ -539,7 +539,7 @@
     {
       "SymbolString": "LPT",
       "DecimalPlaces": 2,
-      "Rank": 131,
+      "Rank": 132,
       "DisplayName": "Livepeer (LPT)"
     },
     {
@@ -563,7 +563,7 @@
     {
       "SymbolString": "SKL",
       "DecimalPlaces": 4,
-      "Rank": 142,
+      "Rank": 143,
       "DisplayName": "SKALE (SKL)"
     },
     {
@@ -575,7 +575,7 @@
     {
       "SymbolString": "PAXG",
       "DecimalPlaces": 2,
-      "Rank": 130,
+      "Rank": 131,
       "DisplayName": "PAX Gold (PAXG)"
     },
     {
@@ -629,7 +629,7 @@
     {
       "SymbolString": "SCRT",
       "DecimalPlaces": 3,
-      "Rank": 114,
+      "Rank": 113,
       "DisplayName": "Secret (SCRT)"
     },
     {
@@ -641,13 +641,13 @@
     {
       "SymbolString": "SLP",
       "DecimalPlaces": 4,
-      "Rank": 143,
+      "Rank": 144,
       "DisplayName": "Smooth Love Potion (SLP)"
     },
     {
       "SymbolString": "MINA",
       "DecimalPlaces": 3,
-      "Rank": 100,
+      "Rank": 99,
       "DisplayName": "Mina Protocol (MINA)"
     },
     {
@@ -731,7 +731,7 @@
     {
       "SymbolString": "SRM",
       "DecimalPlaces": 3,
-      "Rank": 138,
+      "Rank": 139,
       "DisplayName": "Serum (SRM)"
     },
     {
