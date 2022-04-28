@@ -4,8 +4,11 @@ git pull origin main
 
 # Get the feeds
 Write-Host "Getting CoinGeco feed..."
+Write-Host "Page 1"
 $Markets1 = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false"
+Write-Host "Page 2"
 $Markets2 = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=2&sparkline=false"
+Write-Host "Page 3"
 $Markets3 = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=3&sparkline=false"
 $Markets = $Markets1 + $Markets2 + $Markets3
 $MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending
