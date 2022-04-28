@@ -58,7 +58,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 33,
+      "Rank": 32,
       "SymbolString": "XLM",
       "DisplayName": "Stellar (XLM)"
     },
@@ -130,7 +130,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 79,
+      "Rank": 80,
       "SymbolString": "NEO",
       "DisplayName": "NEO (NEO)"
     },
@@ -214,7 +214,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 108,
+      "Rank": 109,
       "SymbolString": "COMP",
       "DisplayName": "Compound (COMP)"
     },
@@ -268,13 +268,13 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 19,
+      "Rank": 20,
       "SymbolString": "MATIC",
       "DisplayName": "Polygon (MATIC)"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 32,
+      "Rank": 33,
       "SymbolString": "ALGO",
       "DisplayName": "Algorand (ALGO)"
     },
@@ -346,7 +346,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 67,
+      "Rank": 68,
       "SymbolString": "HNT",
       "DisplayName": "Helium (HNT)"
     },
@@ -418,7 +418,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 109,
+      "Rank": 108,
       "SymbolString": "DCR",
       "DisplayName": "Decred (DCR)"
     },
@@ -454,13 +454,13 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 166,
+      "Rank": 167,
       "SymbolString": "ONT",
       "DisplayName": "Ontology (ONT)"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 190,
+      "Rank": 191,
       "SymbolString": "REN",
       "DisplayName": "REN (REN)"
     },
@@ -484,7 +484,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 136,
+      "Rank": 137,
       "SymbolString": "SUSHI",
       "DisplayName": "SUSHI (SUSHI)"
     },
@@ -508,7 +508,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 174,
+      "Rank": 176,
       "SymbolString": "ZEN",
       "DisplayName": "Horizen (ZEN)"
     },
@@ -527,7 +527,7 @@
     {
       "SymbolString": "TUSD",
       "DecimalPlaces": 4,
-      "Rank": 80,
+      "Rank": 79,
       "DisplayName": "TrueUSD (TUSD)"
     },
     {
@@ -563,7 +563,7 @@
     {
       "SymbolString": "SKL",
       "DecimalPlaces": 4,
-      "Rank": 118,
+      "Rank": 119,
       "DisplayName": "SKALE (SKL)"
     },
     {
@@ -581,25 +581,25 @@
     {
       "SymbolString": "FLUX",
       "DecimalPlaces": 3,
-      "Rank": 200,
+      "Rank": 199,
       "DisplayName": "FLUX (FLUX)"
     },
     {
       "SymbolString": "DENT",
       "DecimalPlaces": 6,
-      "Rank": 246,
+      "Rank": 247,
       "DisplayName": "DENT (DENT)"
     },
     {
       "SymbolString": "LSK",
       "DecimalPlaces": 3,
-      "Rank": 212,
+      "Rank": 213,
       "DisplayName": "Lisk (LSK)"
     },
     {
       "SymbolString": "POWR",
       "DecimalPlaces": 4,
-      "Rank": 240,
+      "Rank": 267,
       "DisplayName": "Power Ledger (POWR)"
     },
     {
@@ -617,7 +617,7 @@
     {
       "SymbolString": "CVX",
       "DecimalPlaces": 2,
-      "Rank": 64,
+      "Rank": 65,
       "DisplayName": "Convex Finance (CVX)"
     },
     {
@@ -641,7 +641,7 @@
     {
       "SymbolString": "SLP",
       "DecimalPlaces": 4,
-      "Rank": 143,
+      "Rank": 144,
       "DisplayName": "Smooth Love Potion (SLP)"
     },
     {
@@ -671,7 +671,7 @@
     {
       "SymbolString": "AUDIO",
       "DecimalPlaces": 3,
-      "Rank": 121,
+      "Rank": 122,
       "DisplayName": "Audius (AUDIO)"
     },
     {
@@ -683,7 +683,7 @@
     {
       "SymbolString": "IMX",
       "DecimalPlaces": 3,
-      "Rank": 175,
+      "Rank": 177,
       "DisplayName": "Immutable X (IMX)"
     },
     {
@@ -737,19 +737,19 @@
     {
       "SymbolString": "OGN",
       "DecimalPlaces": 4,
-      "Rank": 226,
+      "Rank": 227,
       "DisplayName": "Origin Protocol (OGN)"
     },
     {
       "SymbolString": "BSW",
       "DecimalPlaces": 4,
-      "Rank": 202,
+      "Rank": 204,
       "DisplayName": "Biswap (BSW)"
     },
     {
       "SymbolString": "XNO",
       "DecimalPlaces": 3,
-      "Rank": 223,
+      "Rank": 224,
       "DisplayName": "Nano (XNO)"
     },
     {
@@ -761,13 +761,13 @@
     {
       "SymbolString": "TRIBE",
       "DecimalPlaces": 4,
-      "Rank": 250,
+      "Rank": 246,
       "DisplayName": "Tribe (TRIBE)"
     },
     {
       "SymbolString": "FET",
       "DecimalPlaces": 4,
-      "Rank": 250,
+      "Rank": 261,
       "DisplayName": "Fetch.ai (FET)"
     },
     {
