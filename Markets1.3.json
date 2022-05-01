@@ -519,12 +519,6 @@
       "DisplayName": "0x (ZRX)"
     },
     {
-      "SymbolString": "TUSD",
-      "DecimalPlaces": 4,
-      "Rank": 72,
-      "DisplayName": "TrueUSD (TUSD)"
-    },
-    {
       "SymbolString": "GNO",
       "DecimalPlaces": 2,
       "Rank": 121,
@@ -627,12 +621,6 @@
       "DisplayName": "Secret (SCRT)"
     },
     {
-      "SymbolString": "USDP",
-      "DecimalPlaces": 4,
-      "Rank": 90,
-      "DisplayName": "Pax Dollar (USDP)"
-    },
-    {
       "SymbolString": "SLP",
       "DecimalPlaces": 4,
       "Rank": 143,
@@ -691,12 +679,6 @@
       "DecimalPlaces": 4,
       "Rank": 197,
       "DisplayName": "HIVE (HIVE)"
-    },
-    {
-      "SymbolString": "ANY",
-      "DecimalPlaces": 2,
-      "Rank": 181,
-      "DisplayName": "Anyswap (ANY)"
     },
     {
       "SymbolString": "JST",

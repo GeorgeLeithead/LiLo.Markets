@@ -5,7 +5,11 @@ $SymbolsToIgnore = @(
 	"usdc", # Stable coin
 	"miota", # AKA IOTA
 	"cro", # Not on binance
-	"ust"
+	"ust",
+	"busd", #Stable coin
+	"tusd", #Stable coin
+	"usdp", #stable coin
+	"any"
 )
 $MissingMarketsInLiLo = @()
 foreach($Market in $Markets)
@@ -48,7 +52,7 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 	}
 }
 
-$MissingFromLiLo
+$MissingFromLiLo | Sort-Object Rank
 exit 0
 # Only do the below when you have the SVG images
 $SymbolsWithIcons = @('APE')
