@@ -39,8 +39,8 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 			$TickSize = 0
 		}
 
-		$Rank = $Markets | Where-Object {$_.symbol -eq $Symbol} | select market_cap_rank
-		$DisplayName = $Markets | Where-Object {$_.symbol -eq $Symbol} | select name
+		$Rank = $Markets | Where-Object {$_.symbol -eq $Symbol} | Select-Object market_cap_rank
+		$DisplayName = $Markets | Where-Object {$_.symbol -eq $Symbol} | Select-Object name
 
 		$NewMarket = [PsCustomObject]@{
 			SymbolString = $Symbol.ToUpper()
