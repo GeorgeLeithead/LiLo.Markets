@@ -141,12 +141,6 @@
       "DisplayName": "Tezos (XTZ)"
     },
     {
-      "DecimalPlaces": 2,
-      "Rank": 69,
-      "SymbolString": "LUNA",
-      "DisplayName": "Terra (LUNA)"
-    },
-    {
       "DecimalPlaces": 5,
       "Rank": 35,
       "SymbolString": "VET",
