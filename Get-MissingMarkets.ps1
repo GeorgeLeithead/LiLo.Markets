@@ -9,7 +9,8 @@ $SymbolsToIgnore = @(
 	"busd", #Stable coin
 	"tusd", #Stable coin
 	"usdp", #stable coin
-	"any"
+	"any",
+	"luna" # Luna is dead, long live Luna
 )
 $MissingMarketsInLiLo = @()
 foreach($Market in $Markets)
