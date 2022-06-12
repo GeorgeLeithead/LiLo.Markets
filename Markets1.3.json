@@ -22,7 +22,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 7,
+      "Rank": 6,
       "SymbolString": "ADA",
       "DisplayName": "Cardano (ADA)"
     },
@@ -58,7 +58,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 26,
+      "Rank": 25,
       "SymbolString": "XLM",
       "DisplayName": "Stellar (XLM)"
     },
@@ -124,7 +124,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 49,
+      "Rank": 48,
       "SymbolString": "THETA",
       "DisplayName": "Theta Network (THETA)"
     },
@@ -172,13 +172,13 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 16,
+      "Rank": 17,
       "SymbolString": "AVAX",
       "DisplayName": "Avalanche (AVAX)"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 93,
+      "Rank": 92,
       "SymbolString": "KSM",
       "DisplayName": "Kasuma (KSM)"
     },
@@ -208,13 +208,13 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 127,
+      "Rank": 126,
       "SymbolString": "COMP",
       "DisplayName": "Compound (COMP)"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 78,
+      "Rank": 77,
       "SymbolString": "CAKE",
       "DisplayName": "PancakeSwap (CAKE)"
     },
@@ -232,7 +232,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 71,
+      "Rank": 70,
       "SymbolString": "RUNE",
       "DisplayName": "THORChain (RUNE)"
     },
@@ -244,13 +244,13 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 79,
+      "Rank": 78,
       "SymbolString": "WAVES",
       "DisplayName": "WAVES (WAVES)"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 95,
+      "Rank": 97,
       "SymbolString": "STX",
       "DisplayName": "Stacks (STX)"
     },
@@ -274,7 +274,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 91,
+      "Rank": 90,
       "SymbolString": "BAT",
       "DisplayName": "Basic Attention Token (BAT)"
     },
@@ -298,25 +298,25 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 92,
+      "Rank": 91,
       "SymbolString": "ENJ",
       "DisplayName": "Enjin Coin (ENJ)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 111,
+      "Rank": 110,
       "SymbolString": "CRV",
       "DisplayName": "Curve DAO Token (CRV)"
     },
     {
       "DecimalPlaces": 8,
-      "Rank": 17,
+      "Rank": 16,
       "SymbolString": "SHIB",
       "DisplayName": "Shiba Inu (SHIB)"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 45,
+      "Rank": 46,
       "SymbolString": "AXS",
       "DisplayName": "Axie Infinity (AXS)"
     },
@@ -334,13 +334,13 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 47,
+      "Rank": 45,
       "SymbolString": "MANA",
       "DisplayName": "Decentraland (MANA)"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 60,
+      "Rank": 58,
       "SymbolString": "HNT",
       "DisplayName": "Helium (HNT)"
     },
@@ -364,7 +364,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 85,
+      "Rank": 84,
       "SymbolString": "AR",
       "DisplayName": "Arweave (AR)"
     },
@@ -394,13 +394,13 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 98,
+      "Rank": 96,
       "SymbolString": "CELO",
       "DisplayName": "CELO (CELO)"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 136,
+      "Rank": 133,
       "SymbolString": "IOTX",
       "DisplayName": "IoTeX (IOTX)"
     },
@@ -418,19 +418,19 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 194,
+      "Rank": 195,
       "SymbolString": "DGB",
       "DisplayName": "DigiByte (DBG)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 146,
+      "Rank": 145,
       "SymbolString": "ICX",
       "DisplayName": "ICON (ICX)"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 113,
+      "Rank": 112,
       "SymbolString": "IOST",
       "DisplayName": "IOST (ISOT)"
     },
@@ -478,13 +478,13 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 152,
+      "Rank": 148,
       "SymbolString": "SUSHI",
       "DisplayName": "SUSHI (SUSHI)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 167,
+      "Rank": 166,
       "SymbolString": "SXP",
       "DisplayName": "SXP (SXP)"
     },
@@ -502,19 +502,19 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 166,
+      "Rank": 167,
       "SymbolString": "ZEN",
       "DisplayName": "Horizen (ZEN)"
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 80,
+      "Rank": 79,
       "SymbolString": "ZIL",
       "DisplayName": "Zilliqa (ZIL)"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 135,
+      "Rank": 136,
       "SymbolString": "ZRX",
       "DisplayName": "0x (ZRX)"
     },
@@ -539,13 +539,13 @@
     {
       "SymbolString": "BTG",
       "DecimalPlaces": 2,
-      "Rank": 122,
+      "Rank": 121,
       "DisplayName": "Bitcoin Gold (BTG)"
     },
     {
       "SymbolString": "SYS",
       "DecimalPlaces": 4,
-      "Rank": 234,
+      "Rank": 235,
       "DisplayName": "Syscoin (SYS)"
     },
     {
@@ -557,7 +557,7 @@
     {
       "SymbolString": "POLY",
       "DecimalPlaces": 4,
-      "Rank": 174,
+      "Rank": 173,
       "DisplayName": "Polymath (POLY)"
     },
     {
@@ -569,13 +569,13 @@
     {
       "SymbolString": "FLUX",
       "DecimalPlaces": 3,
-      "Rank": 218,
+      "Rank": 222,
       "DisplayName": "FLUX (FLUX)"
     },
     {
       "SymbolString": "DENT",
       "DecimalPlaces": 6,
-      "Rank": 271,
+      "Rank": 270,
       "DisplayName": "DENT (DENT)"
     },
     {
@@ -587,37 +587,37 @@
     {
       "SymbolString": "POWR",
       "DecimalPlaces": 4,
-      "Rank": 253,
+      "Rank": 252,
       "DisplayName": "Power Ledger (POWR)"
     },
     {
       "SymbolString": "GALA",
       "DecimalPlaces": 5,
-      "Rank": 97,
+      "Rank": 95,
       "DisplayName": "GALA (GALA)"
     },
     {
       "SymbolString": "FXS",
       "DecimalPlaces": 3,
-      "Rank": 121,
+      "Rank": 120,
       "DisplayName": "Frax Share (FXS)"
     },
     {
       "SymbolString": "CVX",
       "DecimalPlaces": 2,
-      "Rank": 120,
+      "Rank": 118,
       "DisplayName": "Convex Finance (CVX)"
     },
     {
       "SymbolString": "ROSE",
       "DecimalPlaces": 5,
-      "Rank": 172,
+      "Rank": 171,
       "DisplayName": "Oasis Network (ROSE)"
     },
     {
       "SymbolString": "SCRT",
       "DecimalPlaces": 3,
-      "Rank": 181,
+      "Rank": 182,
       "DisplayName": "Secret (SCRT)"
     },
     {
@@ -641,19 +641,19 @@
     {
       "SymbolString": "WAXP",
       "DecimalPlaces": 4,
-      "Rank": 163,
+      "Rank": 164,
       "DisplayName": "WAX (WAXP)"
     },
     {
       "SymbolString": "CHZ",
       "DecimalPlaces": 4,
-      "Rank": 83,
+      "Rank": 81,
       "DisplayName": "Chiliz (CHZ)"
     },
     {
       "SymbolString": "AUDIO",
       "DecimalPlaces": 3,
-      "Rank": 142,
+      "Rank": 140,
       "DisplayName": "Audius (AUDIO)"
     },
     {
@@ -665,7 +665,7 @@
     {
       "SymbolString": "IMX",
       "DecimalPlaces": 3,
-      "Rank": 177,
+      "Rank": 175,
       "DisplayName": "Immutable X (IMX)"
     },
     {
@@ -677,19 +677,19 @@
     {
       "SymbolString": "HIVE",
       "DecimalPlaces": 4,
-      "Rank": 186,
+      "Rank": 188,
       "DisplayName": "HIVE (HIVE)"
     },
     {
       "SymbolString": "JST",
       "DecimalPlaces": 5,
-      "Rank": 132,
+      "Rank": 134,
       "DisplayName": "JUST (JST)"
     },
     {
       "SymbolString": "ENS",
       "DecimalPlaces": 2,
-      "Rank": 157,
+      "Rank": 153,
       "DisplayName": "Etherium Name Service (ENS)"
     },
     {
@@ -707,37 +707,37 @@
     {
       "SymbolString": "SRM",
       "DecimalPlaces": 3,
-      "Rank": 115,
+      "Rank": 116,
       "DisplayName": "Serum (SRM)"
     },
     {
       "SymbolString": "OGN",
       "DecimalPlaces": 4,
-      "Rank": 245,
+      "Rank": 244,
       "DisplayName": "Origin Protocol (OGN)"
     },
     {
       "SymbolString": "BSW",
       "DecimalPlaces": 4,
-      "Rank": 252,
+      "Rank": 253,
       "DisplayName": "Biswap (BSW)"
     },
     {
       "SymbolString": "XNO",
       "DecimalPlaces": 3,
-      "Rank": 221,
+      "Rank": 223,
       "DisplayName": "Nano (XNO)"
     },
     {
       "SymbolString": "INJ",
       "DecimalPlaces": 3,
-      "Rank": 273,
+      "Rank": 272,
       "DisplayName": "Injective (INJ)"
     },
     {
       "SymbolString": "TRIBE",
       "DecimalPlaces": 4,
-      "Rank": 266,
+      "Rank": 267,
       "DisplayName": "Tribe (TRIBE)"
     },
     {
