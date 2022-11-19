@@ -1,5 +1,5 @@
 $Markets = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=300&page=1&sparkline=false"
-$Lilo = Get-Content -path .\Markets1.3.json | ConvertFrom-Json
+$Lilo = Get-Content -path .\Markets1.4.json | ConvertFrom-Json
 $SymbolsToIgnore = @(
 	"usdt", # Stable Coin
 	"usdc", # Stable coin
@@ -10,7 +10,11 @@ $SymbolsToIgnore = @(
 	"tusd", #Stable coin
 	"usdp", #stable coin
 	"any",
-	"luna" # Luna is dead, long live Luna
+	"luna", # Luna is dead, long live Luna
+	"hnt", # Helium (HNT) is dead,
+	"ftt", #FTT has faked the markets and stolen everyones money!
+	"btg", # Gone and forgotten
+	"poly" # Doesn't want a cracker'
 )
 $MissingMarketsInLiLo = @()
 foreach($Market in $Markets)

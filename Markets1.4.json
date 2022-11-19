@@ -148,12 +148,6 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 114,
-      "SymbolString": "FTT",
-      "DisplayName": "FTX Token (FTT)"
-    },
-    {
-      "DecimalPlaces": 2,
       "Rank": 89,
       "SymbolString": "DASH",
       "DisplayName": "DASH (DASH)"
@@ -331,12 +325,6 @@
       "Rank": 55,
       "SymbolString": "MANA",
       "DisplayName": "Decentraland (MANA)"
-    },
-    {
-      "DecimalPlaces": 2,
-      "Rank": 96,
-      "SymbolString": "HNT",
-      "DisplayName": "Helium (HNT)"
     },
     {
       "DecimalPlaces": 2,
@@ -531,12 +519,6 @@
       "DisplayName": "ANKR (ANKR)"
     },
     {
-      "SymbolString": "BTG",
-      "DecimalPlaces": 2,
-      "Rank": 122,
-      "DisplayName": "Bitcoin Gold (BTG)"
-    },
-    {
       "SymbolString": "SYS",
       "DecimalPlaces": 4,
       "Rank": 263,
@@ -547,12 +529,6 @@
       "DecimalPlaces": 4,
       "Rank": 211,
       "DisplayName": "SKALE (SKL)"
-    },
-    {
-      "SymbolString": "POLY",
-      "DecimalPlaces": 4,
-      "Rank": 156,
-      "DisplayName": "Polymath (POLY)"
     },
     {
       "SymbolString": "PAXG",
