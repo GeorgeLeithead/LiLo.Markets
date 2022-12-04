@@ -675,12 +675,6 @@
       "DisplayName": "Kadena (KDA)"
     },
     {
-      "SymbolString": "SRM",
-      "DecimalPlaces": 3,
-      "Rank": 240,
-      "DisplayName": "Serum (SRM)"
-    },
-    {
       "SymbolString": "OGN",
       "DecimalPlaces": 4,
       "Rank": 298,
@@ -703,12 +697,6 @@
       "DecimalPlaces": 3,
       "Rank": 200,
       "DisplayName": "Injective (INJ)"
-    },
-    {
-      "SymbolString": "TRIBE",
-      "DecimalPlaces": 4,
-      "Rank": 230,
-      "DisplayName": "Tribe (TRIBE)"
     },
     {
       "SymbolString": "FET",
