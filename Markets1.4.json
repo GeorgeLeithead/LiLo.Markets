@@ -352,7 +352,7 @@
     },
     {
       "DecimalPlaces": 5,
-      "Rank": 228,
+      "Rank": 230,
       "SymbolString": "AMP",
       "DisplayName": "AMP (AMP)"
     },
@@ -418,13 +418,13 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 245,
+      "Rank": 250,
       "SymbolString": "KNC",
       "DisplayName": "Kyber Network Crystal (KNC)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 270,
+      "Rank": 280,
       "SymbolString": "OMG",
       "DisplayName": "OMG Network (OMG)"
     },
@@ -460,7 +460,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 208,
+      "Rank": 212,
       "SymbolString": "SUSHI",
       "DisplayName": "SUSHI (SUSHI)"
     },
@@ -472,7 +472,7 @@
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 232,
+      "Rank": 234,
       "SymbolString": "UMA",
       "DisplayName": "UMA (UMA)"
     },
@@ -484,7 +484,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 254,
+      "Rank": 252,
       "SymbolString": "ZEN",
       "DisplayName": "Horizen (ZEN)"
     },
@@ -509,7 +509,7 @@
     {
       "SymbolString": "LPT",
       "DecimalPlaces": 2,
-      "Rank": 221,
+      "Rank": 226,
       "DisplayName": "Livepeer (LPT)"
     },
     {
@@ -521,13 +521,13 @@
     {
       "SymbolString": "SYS",
       "DecimalPlaces": 4,
-      "Rank": 263,
+      "Rank": 268,
       "DisplayName": "Syscoin (SYS)"
     },
     {
       "SymbolString": "SKL",
       "DecimalPlaces": 4,
-      "Rank": 216,
+      "Rank": 215,
       "DisplayName": "SKALE (SKL)"
     },
     {
@@ -641,13 +641,13 @@
     {
       "SymbolString": "CKB",
       "DecimalPlaces": 5,
-      "Rank": 256,
+      "Rank": 266,
       "DisplayName": "Nervos Network (CKB)"
     },
     {
       "SymbolString": "HIVE",
       "DecimalPlaces": 4,
-      "Rank": 223,
+      "Rank": 222,
       "DisplayName": "HIVE (HIVE)"
     },
     {
@@ -665,13 +665,13 @@
     {
       "SymbolString": "C98",
       "DecimalPlaces": 3,
-      "Rank": 288,
+      "Rank": 291,
       "DisplayName": "Coin98 (C98)"
     },
     {
       "SymbolString": "KDA",
       "DecimalPlaces": 3,
-      "Rank": 197,
+      "Rank": 201,
       "DisplayName": "Kadena (KDA)"
     },
     {
@@ -689,7 +689,7 @@
     {
       "SymbolString": "XNO",
       "DecimalPlaces": 3,
-      "Rank": 274,
+      "Rank": 270,
       "DisplayName": "Nano (XNO)"
     },
     {
