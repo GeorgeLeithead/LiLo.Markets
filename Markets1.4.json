@@ -709,6 +709,105 @@
       "DecimalPlaces": 4,
       "Rank": 85,
       "DisplayName": "ApeCoin (APE)"
+    },
+
+
+
+    {
+      "SymbolString": "OP",
+      "DecimalPlaces": 3,
+      "Rank": 29,
+      "DisplayName": "Optimism (OP)"
+    },
+    {
+      "SymbolString": "APT",
+      "DecimalPlaces": 4,
+      "Rank": 31,
+      "DisplayName": "Aptos (APT)"
+    },
+    {
+      "SymbolString": "ARB",
+      "DecimalPlaces": 4,
+      "Rank": 40,
+      "DisplayName": "Arbitrum (ARB)"
+    },
+    {
+      "SymbolString": "SUI",
+      "DecimalPlaces": 4,
+      "Rank": 48,
+      "DisplayName": "Sui (SUI)"
+    },
+    {
+      "SymbolString": "ASTR",
+      "DecimalPlaces": 4,
+      "Rank": 68,
+      "DisplayName": "Astar (ASTR)"
+    },
+    {
+      "SymbolString": "OSMO",
+      "DecimalPlaces": 4,
+      "Rank": 69,
+      "DisplayName": "Osmosis (OSMO)"
+    },
+    {
+      "SymbolString": "WOO",
+      "DecimalPlaces": 4,
+      "Rank": 108,
+      "DisplayName": "WOO (WOO)"
+    },
+    {
+      "SymbolString": "NEXO",
+      "DecimalPlaces": 3,
+      "Rank": 126,
+      "DisplayName": "NEXO (NEXO)"
+    },
+    {
+      "SymbolString": "ELF",
+      "DecimalPlaces": 4,
+      "Rank": 139,
+      "DisplayName": "aelf (ELF)"
+    },
+    {
+      "SymbolString": "GAS",
+      "DecimalPlaces": 3,
+      "Rank": 153,
+      "DisplayName": "Gas (GAS)"
+    },
+    {
+      "SymbolString": "AGIX",
+      "DecimalPlaces": 5,
+      "Rank": 155,
+      "DisplayName": "SingularityNET (AGIX)"
+    },
+    {
+      "SymbolString": "MAGIC",
+      "DecimalPlaces": 4,
+      "Rank": 167,
+      "DisplayName": "Magic (MAGIC)"
+    },
+    {
+      "SymbolString": "MASK",
+      "DecimalPlaces": 3,
+      "Rank": 169,
+      "DisplayName": "Mask Network (MASK)"
+    },
+    {
+      "SymbolString": "API3",
+      "DecimalPlaces": 3,
+      "Rank": 176,
+      "DisplayName": "API3 (API3)"
+    },
+    {
+      "SymbolString": "GLMR",
+      "DecimalPlaces": 4,
+      "Rank": 179,
+      "DisplayName": "Moonbeam (GLMR)"
+    },
+    {
+      "SymbolString": "TRB",
+      "DecimalPlaces": 2,
+      "Rank": 181,
+      "DisplayName": "Tellor Tributes (TRB)"
     }
   ]
 }

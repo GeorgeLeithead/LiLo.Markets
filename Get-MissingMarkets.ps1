@@ -14,7 +14,12 @@ $SymbolsToIgnore = @(
 	"hnt", # Helium (HNT) is dead,
 	"ftt", #FTT has faked the markets and stolen everyones money!
 	"btg", # Gone and forgotten
-	"poly" # Doesn't want a cracker'
+	"poly" # Doesn't want a cracker',
+	"wbtc" # Wrapped BTC,
+	"fdusd" # First Digital USD,
+	"ldo" # Lido DAO,
+	"rndr" #Render,
+
 )
 $MissingMarketsInLiLo = @()
 foreach($Market in $Markets)
@@ -60,7 +65,7 @@ foreach($BinanceSymbol in $BinanceMarketsUsdt)
 $MissingFromLiLo | Sort-Object Rank
 exit 0
 # Only do the below when you have the SVG images
-$SymbolsWithIcons = @('APE')
+$SymbolsWithIcons = @('OP', 'APT', 'ARB', 'SUI', 'ASTR', 'OSMO', 'WOO', 'NEXO', 'ELF', 'GAS', 'AGIX', 'API3', 'GLMR', 'TRB', 'MAGIC', 'MASK')
 
 # This is the JSON to add to Markets.json
 $MissingFromLiLo | Where-Object SymbolString -in $SymbolsWithIcons | Sort-Object Rank | ConvertTo-Json
