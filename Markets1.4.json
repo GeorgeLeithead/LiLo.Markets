@@ -387,12 +387,6 @@
       "DisplayName": "IoTeX (IOTX)"
     },
     {
-      "DecimalPlaces": 3,
-      "Rank": 299,
-      "SymbolString": "BNT",
-      "DisplayName": "Bancor Network Token (BNT)"
-    },
-    {
       "DecimalPlaces": 2,
       "Rank": 205,
       "SymbolString": "DCR",
@@ -421,12 +415,6 @@
       "Rank": 295,
       "SymbolString": "KNC",
       "DisplayName": "Kyber Network Crystal (KNC)"
-    },
-    {
-      "DecimalPlaces": 3,
-      "Rank": 299,
-      "SymbolString": "OMG",
-      "DisplayName": "OMG Network (OMG)"
     },
     {
       "DecimalPlaces": 4,
@@ -673,12 +661,6 @@
       "DecimalPlaces": 3,
       "Rank": 206,
       "DisplayName": "Kadena (KDA)"
-    },
-    {
-      "SymbolString": "OGN",
-      "DecimalPlaces": 4,
-      "Rank": 298,
-      "DisplayName": "Origin Protocol (OGN)"
     },
     {
       "SymbolString": "BSW",
