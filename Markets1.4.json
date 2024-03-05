@@ -99,12 +99,6 @@
       "DisplayName": "Solana (SOL)"
     },
     {
-      "DecimalPlaces": 2,
-      "Rank": 50,
-      "SymbolString": "XMR",
-      "DisplayName": "Monero (XMR)"
-    },
-    {
       "DecimalPlaces": 3,
       "Rank": 90,
       "SymbolString": "EOS",
@@ -130,7 +124,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 86,
+      "Rank": 87,
       "SymbolString": "NEO",
       "DisplayName": "NEO (NEO)"
     },
@@ -172,7 +166,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 57,
+      "Rank": 58,
       "SymbolString": "MKR",
       "DisplayName": "Maker (MKR)"
     },
@@ -238,19 +232,19 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 36,
+      "Rank": 35,
       "SymbolString": "STX",
       "DisplayName": "Stacks (STX)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 35,
+      "Rank": 36,
       "SymbolString": "HBAR",
       "DisplayName": "Hadera Hashgraph (HBAR)"
     },
     {
       "DecimalPlaces": 3,
-      "Rank": 16,
+      "Rank": 17,
       "SymbolString": "MATIC",
       "DisplayName": "Polygon (MATIC)"
     },
@@ -316,13 +310,13 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 72,
+      "Rank": 73,
       "SymbolString": "SAND",
       "DisplayName": "The Sandbox (SAND)"
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 89,
+      "Rank": 91,
       "SymbolString": "MANA",
       "DisplayName": "Decentraland (MANA)"
     },
@@ -358,13 +352,13 @@
     },
     {
       "DecimalPlaces": 8,
-      "Rank": 75,
+      "Rank": 72,
       "SymbolString": "XEC",
       "DisplayName": "eCash (XEC)"
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 60,
+      "Rank": 59,
       "SymbolString": "QNT",
       "DisplayName": "Quant (QNT)"
     },
@@ -551,7 +545,7 @@
     {
       "SymbolString": "GALA",
       "DecimalPlaces": 5,
-      "Rank": 74,
+      "Rank": 75,
       "DisplayName": "GALA (GALA)"
     },
     {
