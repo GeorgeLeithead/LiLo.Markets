@@ -10,7 +10,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 275,
+      "Rank": 2,
       "SymbolString": "ETH",
       "DisplayName": "Etherium (ETH)"
     },
@@ -70,7 +70,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 262,
+      "Rank": 9,
       "SymbolString": "DOGE",
       "DisplayName": "Dogecoin (DOGE)"
     },
