@@ -11,6 +11,12 @@ $Markets2 = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs
 Write-Host "Page 3"
 $Markets3 = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=3&sparkline=false"
 $Markets = $Markets1 + $Markets2 + $Markets3
+# Fix for CoinGecko having the same symbol used for more than one coin! (e.g. ETH and DOGE)
+$BridgedEther = $Markets | Where-Object {$_.name -eq "Bridged Ether (StarkGate)"}
+$BridgedEther.symbol = "STGT"
+$BinancePegedDoge = $Markets | Where-Object {$_.name -eq "Binance-Peg Dogecoin"}
+$BinancePegedDoge.symbol = "BDOG"
+
 $MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending | Select-Object -First 1
 foreach($MarketFile in $MarketFiles)
 {
