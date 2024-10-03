@@ -231,12 +231,6 @@
       "DisplayName": "Hadera Hashgraph (HBAR)"
     },
     {
-      "DecimalPlaces": 3,
-      "Rank": 76,
-      "SymbolString": "MATIC",
-      "DisplayName": "Polygon (MATIC)"
-    },
-    {
       "DecimalPlaces": 4,
       "Rank": 77,
       "SymbolString": "ALGO",
