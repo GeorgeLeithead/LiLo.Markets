@@ -309,12 +309,6 @@
       "DisplayName": "FLOW (FLOW)"
     },
     {
-      "DecimalPlaces": 3,
-      "Rank": 113,
-      "SymbolString": "KLAY",
-      "DisplayName": "Klaytn (KLAY)"
-    },
-    {
       "DecimalPlaces": 5,
       "Rank": 299,
       "SymbolString": "ONE",
