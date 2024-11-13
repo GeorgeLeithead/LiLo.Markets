@@ -16,6 +16,8 @@ $BridgedEther = $Markets | Where-Object {$_.name -eq "Bridged Ether (StarkGate)"
 $BridgedEther.symbol = "STGT"
 $BinancePegedDoge = $Markets | Where-Object {$_.name -eq "Binance-Peg Dogecoin"}
 $BinancePegedDoge.symbol = "BDOG"
+$BinanceDepartmentOfGovernmentEfficiency = $Markets | Where-Object {$_.id -eq "department-of-government-efficiency"}
+$BinanceDepartmentOfGovernmentEfficiency.symbol = "DOGE.gov"
 
 $MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending | Select-Object -First 1
 foreach($MarketFile in $MarketFiles)
