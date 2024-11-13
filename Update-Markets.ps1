@@ -23,7 +23,7 @@ $MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -D
 foreach($MarketFile in $MarketFiles)
 {
     [bool]$Changes = $false
-    Write-Host "*** Getting local $($MarketFile.Name) ***"
+    Write-Host "*** Getting local $($MarketFile.Name) ***"aspir
     $Lilo = Get-Content -path $MarketFile | ConvertFrom-Json
 
     # IOTA has a weird symbol on CoinGeko, so lets match
