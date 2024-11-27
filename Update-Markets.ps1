@@ -13,11 +13,20 @@ $Markets3 = Invoke-RestMethod "https://api.coingecko.com/api/v3/coins/markets?vs
 $Markets = $Markets1 + $Markets2 + $Markets3
 # Fix for CoinGecko having the same symbol used for more than one coin! (e.g. ETH and DOGE)
 $BridgedEther = $Markets | Where-Object {$_.name -eq "Bridged Ether (StarkGate)"}
-$BridgedEther.symbol = "STGT"
+if ($null -ne $BridgedEther)
+{
+    $BridgedEther.symbol = "STGT"
+}
 $BinancePegedDoge = $Markets | Where-Object {$_.name -eq "Binance-Peg Dogecoin"}
-$BinancePegedDoge.symbol = "BDOG"
+if ($null -ne $BinancePegedDoge)
+{
+    $BinancePegedDoge.symbol = "BDOG"
+}
 $BinanceDepartmentOfGovernmentEfficiency = $Markets | Where-Object {$_.id -eq "department-of-government-efficiency"}
-$BinanceDepartmentOfGovernmentEfficiency.symbol = "DOGE.gov"
+if ($null -ne $BinanceDepartmentOfGovernmentEfficiency)
+{
+    $BinanceDepartmentOfGovernmentEfficiency.symbol = "DOGE.gov"
+}
 
 $MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending | Select-Object -First 1
 foreach($MarketFile in $MarketFiles)

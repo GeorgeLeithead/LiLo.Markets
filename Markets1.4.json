@@ -58,7 +58,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 15,
+      "Rank": 16,
       "SymbolString": "XLM",
       "DisplayName": "Stellar (XLM)"
     },
@@ -274,7 +274,7 @@
     },
     {
       "DecimalPlaces": 8,
-      "Rank": 16,
+      "Rank": 15,
       "SymbolString": "SHIB",
       "DisplayName": "Shiba Inu (SHIB)"
     },
@@ -292,7 +292,7 @@
     },
     {
       "DecimalPlaces": 4,
-      "Rank": 81,
+      "Rank": 80,
       "SymbolString": "SAND",
       "DisplayName": "The Sandbox (SAND)"
     },
@@ -334,7 +334,7 @@
     },
     {
       "DecimalPlaces": 2,
-      "Rank": 85,
+      "Rank": 86,
       "SymbolString": "QNT",
       "DisplayName": "Quant (QNT)"
     },
