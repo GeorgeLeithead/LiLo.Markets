@@ -573,12 +573,6 @@
       "DisplayName": "Syscoin (SYS)"
     },
     {
-      "SymbolString": "REN",
-      "DecimalPlaces": 5,
-      "Rank": 289,
-      "DisplayName": "REN (REN)"
-    },
-    {
       "SymbolString": "IOST",
       "DecimalPlaces": 6,
       "Rank": 290,
