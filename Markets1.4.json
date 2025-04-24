@@ -489,12 +489,6 @@
       "DisplayName": "ANKR (ANKR)"
     },
     {
-      "SymbolString": "ELF",
-      "DecimalPlaces": 4,
-      "Rank": 300,
-      "DisplayName": "aelf (ELF)"
-    },
-    {
       "SymbolString": "SC",
       "DecimalPlaces": 6,
       "Rank": 282,
