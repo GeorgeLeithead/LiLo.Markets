@@ -14,3 +14,14 @@ jobs:
       - name: Update Markets
         shell: pwsh
         run: ./Update-Markets-GHA.ps1
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and push changes
+        run: |
+          git add *.json
+          git commit -m "Update market rankings [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

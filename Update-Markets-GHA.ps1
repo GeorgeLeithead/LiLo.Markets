@@ -86,52 +86,56 @@ foreach ($fix in $SymbolFixes) {
 }
 
 # Find latest market file
-$MarketFiles = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending | Select-Object -First 1
-if ($MarketFiles.Count -eq 0) {
+$MarketFile = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending | Select-Object -First 1
+if ($null -eq $MarketFile) {
     Write-Host "No JSON market files found. Exiting."
     exit 1
 }
 
-foreach($MarketFile in $MarketFiles) {
-    [bool]$Changes = $false
-    Write-Host "*** Getting local $($MarketFile.Name) ***"
-    try {
-        $Lilo = Get-Content -path $MarketFile | ConvertFrom-Json
-    } catch {
-        Write-Host "Failed to parse $($MarketFile.Name) as JSON. Skipping."
-        continue
-    }
-    # IOTA has a weird symbol on CoinGeko, so lets match
-    $Miota = $Lilo.Markets | Where-Object {$_.SymbolString -eq "iota"}
-    if ($null -ne $Miota) { $Miota.SymbolString = "MIOTA" }
-    $matchingMarkets = $Markets | Where-Object {$_.symbol -in $Lilo.Markets.SymbolString }
-    # Print table header
-    $header = "{0,-6} {1,6} {2,6} {3,6}" -f 'Coin', 'Old', 'New', 'U/D'
-    Write-Host $header
-    Write-Host ('-' * $header.Length)
-    foreach ($Market in $matchingMarkets) {
-        $LiloItem = $Lilo.Markets | Where-Object {$_.SymbolString -eq $Market.symbol}
-        if ($LiloItem.Rank -ne $Market.market_cap_rank) {
-            $Changes = $true
-            $diff = $Market.market_cap_rank - $LiloItem.Rank
-            if ($diff -gt 0) {
-                $ud = "+$diff"
-            } elseif ($diff -lt 0) {
-                $ud = "$diff"
-            } else {
-                $ud = "0"
-            }
-            $row = "{0,-6} {1,6} {2,6} {3,6}" -f $LiloItem.SymbolString, $LiloItem.Rank, $Market.market_cap_rank, $ud
-            Write-Host $row
-            $LiloItem.Rank = $Market.market_cap_rank
+[bool]$Changes = $false
+Write-Host "*** Getting local $($MarketFile.Name) ***"
+try {
+    $Lilo = Get-Content -path $MarketFile | ConvertFrom-Json
+} catch {
+    Write-Host "Failed to parse $($MarketFile.Name) as JSON. Skipping."
+    exit 1
+}
+
+# IOTA has a weird symbol on CoinGeko, so lets match
+$Miota = $Lilo.Markets | Where-Object {$_.SymbolString -eq "iota"}
+if ($null -ne $Miota) { $Miota.SymbolString = "MIOTA" }
+$matchingMarkets = $Markets | Where-Object {$_.symbol -in $Lilo.Markets.SymbolString }
+# Print table header
+$header = "{0,-6} {1,6} {2,6} {3,6}" -f 'Coin', 'Old', 'New', 'U/D'
+Write-Host $header
+Write-Host ('-' * $header.Length)
+foreach ($Market in $matchingMarkets) {
+    $LiloItem = $Lilo.Markets | Where-Object {$_.SymbolString -eq $Market.symbol}
+    if ($LiloItem.Rank -ne $Market.market_cap_rank) {
+        $Changes = $true
+        $diff = $Market.market_cap_rank - $LiloItem.Rank
+        if ($diff -gt 0) {
+            $ud = "+$diff"
+        } elseif ($diff -lt 0) {
+            $ud = "$diff"
+        } else {
+            $ud = "0"
         }
+        $row = "{0,-6} {1,6} {2,6} {3,6}" -f $LiloItem.SymbolString, $LiloItem.Rank, $Market.market_cap_rank, $ud
+        Write-Host $row
+        $LiloItem.Rank = $Market.market_cap_rank
     }
-    if ($Changes) {
-        # Undo the IOTA change
-        $Miota = $Lilo.Markets | Where-Object {$_.SymbolString -eq "miota"}
-        if ($null -ne $Miota) { $Miota.SymbolString = "IOTA" }
-        $Lilo | ConvertTo-Json | Out-File $MarketFile
-    }
+}
+
+if (-not $Changes) {
+    Write-Host "No changes detected in market rankings."
+} else {
+    Write-Host "Changes detected, updating $($MarketFile.Name)..."
+    # Undo the IOTA change
+    $Miota = $Lilo.Markets | Where-Object {$_.SymbolString -eq "miota"}
+    if ($null -ne $Miota) { $Miota.SymbolString = "IOTA" }
+    $Lilo | ConvertTo-Json | Out-File $MarketFile
+    Write-Host "Updated $($MarketFile.Name) with new rankings."
 }
 
 Write-Host "***DONE***"
