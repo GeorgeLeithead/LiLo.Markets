@@ -1,4 +1,4 @@
-name: Update Markets
+name: Update Markets for LiLo.Lite
 
 on:
   schedule:
