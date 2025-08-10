@@ -161,13 +161,13 @@
     {
       "SymbolString": "VET",
       "DecimalPlaces": 5,
-      "Rank": 61,
+      "Rank": 62,
       "DisplayName": "VeChain (VET)"
     },
     {
       "SymbolString": "ATOM",
       "DecimalPlaces": 3,
-      "Rank": 62,
+      "Rank": 61,
       "DisplayName": "Cosmos (ATOM)"
     },
     {
@@ -263,7 +263,7 @@
     {
       "SymbolString": "XTZ",
       "DecimalPlaces": 3,
-      "Rank": 128,
+      "Rank": 127,
       "DisplayName": "Tezos (XTZ)"
     },
     {
@@ -305,7 +305,7 @@
     {
       "SymbolString": "XEC",
       "DecimalPlaces": 8,
-      "Rank": 202,
+      "Rank": 203,
       "DisplayName": "eCash (XEC)"
     },
     {
@@ -353,7 +353,7 @@
     {
       "SymbolString": "AMP",
       "DecimalPlaces": 6,
-      "Rank": 253,
+      "Rank": 254,
       "DisplayName": "AMP (AMP)"
     },
     {
@@ -377,7 +377,7 @@
     {
       "SymbolString": "COMP",
       "DecimalPlaces": 2,
-      "Rank": 182,
+      "Rank": 180,
       "DisplayName": "Compound (COMP)"
     },
     {
@@ -413,7 +413,7 @@
     {
       "SymbolString": "LPT",
       "DecimalPlaces": 3,
-      "Rank": 263,
+      "Rank": 262,
       "DisplayName": "Livepeer (LPT)"
     },
     {
@@ -617,7 +617,7 @@
     {
       "SymbolString": "DCR",
       "DecimalPlaces": 2,
-      "Rank": 257,
+      "Rank": 258,
       "DisplayName": "Decred (DCR)"
     },
     {
