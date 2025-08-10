@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Do not ignore .github and workflow files
+!.github/
+!.github/workflows/
+
+# But do not ignore these file types
+!*.ps1
+!*.json
+!*.md
+!*.yml
+
+# Do not ignore .gitignore itself
+!.gitignore
