@@ -106,7 +106,7 @@ foreach($MarketFile in $MarketFiles) {
     if ($null -ne $Miota) { $Miota.SymbolString = "MIOTA" }
     $matchingMarkets = $Markets | Where-Object {$_.symbol -in $Lilo.Markets.SymbolString }
     # Print table header
-    $header = "{0,-20} {1,6} {2,6} {3,6}" -f 'Coin', 'Old', 'New', 'U/D'
+    $header = "{0,-6} {1,6} {2,6} {3,6}" -f 'Coin', 'Old', 'New', 'U/D'
     Write-Host $header
     Write-Host ('-' * $header.Length)
     foreach ($Market in $matchingMarkets) {
@@ -121,7 +121,7 @@ foreach($MarketFile in $MarketFiles) {
             } else {
                 $ud = "0"
             }
-            $row = "{0,-20} {1,6} {2,6} {3,6}" -f $LiloItem.SymbolString, $LiloItem.Rank, $Market.market_cap_rank, $ud
+            $row = "{0,-6} {1,6} {2,6} {3,6}" -f $LiloItem.SymbolString, $LiloItem.Rank, $Market.market_cap_rank, $ud
             Write-Host $row
             $LiloItem.Rank = $Market.market_cap_rank
         }
