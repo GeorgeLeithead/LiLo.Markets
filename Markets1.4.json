@@ -267,12 +267,6 @@
       "DisplayName": "Tezos (XTZ)"
     },
     {
-      "SymbolString": "EOS",
-      "DecimalPlaces": 4,
-      "Rank": 244,
-      "DisplayName": "EOS (EOS)"
-    },
-    {
       "SymbolString": "ENS",
       "DecimalPlaces": 2,
       "Rank": 136,
@@ -619,12 +613,6 @@
       "DecimalPlaces": 2,
       "Rank": 268,
       "DisplayName": "Decred (DCR)"
-    },
-    {
-      "SymbolString": "BSW",
-      "DecimalPlaces": 4,
-      "Rank": 297,
-      "DisplayName": "Biswap (BSW)"
     },
     {
       "SymbolString": "ONT",
