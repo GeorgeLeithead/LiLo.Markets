@@ -219,12 +219,6 @@
       "DisplayName": "THORChain (RUNE)"
     },
     {
-      "SymbolString": "MKR",
-      "DecimalPlaces": 0,
-      "Rank": 102,
-      "DisplayName": "Maker (MKR)"
-    },
-    {
       "SymbolString": "GALA",
       "DecimalPlaces": 5,
       "Rank": 196,
@@ -523,12 +517,6 @@
       "DecimalPlaces": 3,
       "Rank": 295,
       "DisplayName": "Gas (GAS)"
-    },
-    {
-      "SymbolString": "KDA",
-      "DecimalPlaces": 4,
-      "Rank": 293,
-      "DisplayName": "Kadena (KDA)"
     },
     {
       "SymbolString": "MASK",
