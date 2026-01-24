@@ -87,7 +87,7 @@ foreach ($fix in $SymbolFixes) {
 }
 
 # Get rid of Wrapped
-$Markets = $Markets | Where-Object { $_.name -notlike "Wrapped *" }
+$Markets = $Markets | Where-Object { $_.name -notlike "Wrapped *" -and $_.name -notlike "Binance-peg *" }
 
 # Find latest market file
 $MarketFile = Get-ChildItem -Path .\ -File -Filter *.json | Sort-Object Name -Descending | Select-Object -First 1
