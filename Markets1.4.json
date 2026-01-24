@@ -687,12 +687,6 @@
       "DisplayName": "Magic (MAGIC)"
     },
     {
-      "SymbolString": "FXS",
-      "DecimalPlaces": 3,
-      "Rank": 269,
-      "DisplayName": "Frax Share (FXS)"
-    },
-    {
       "SymbolString": "AUDIO",
       "DecimalPlaces": 4,
       "Rank": 300,
