@@ -59,7 +59,7 @@
     {
       "SymbolString": "SHIB",
       "DecimalPlaces": 8,
-      "Rank": 35,
+      "Rank": 36,
       "DisplayName": "Shiba Inu (SHIB)"
     },
     {
@@ -125,7 +125,7 @@
     {
       "SymbolString": "HBAR",
       "DecimalPlaces": 5,
-      "Rank": 36,
+      "Rank": 37,
       "DisplayName": "Hadera Hashgraph (HBAR)"
     },
     {
@@ -215,7 +215,7 @@
     {
       "SymbolString": "RUNE",
       "DecimalPlaces": 3,
-      "Rank": 280,
+      "Rank": 281,
       "DisplayName": "THORChain (RUNE)"
     },
     {
@@ -227,7 +227,7 @@
     {
       "SymbolString": "SAND",
       "DecimalPlaces": 4,
-      "Rank": 175,
+      "Rank": 176,
       "DisplayName": "The Sandbox (SAND)"
     },
     {
@@ -275,7 +275,7 @@
     {
       "SymbolString": "MANA",
       "DecimalPlaces": 4,
-      "Rank": 213,
+      "Rank": 214,
       "DisplayName": "Decentraland (MANA)"
     },
     {
@@ -293,7 +293,7 @@
     {
       "SymbolString": "XEC",
       "DecimalPlaces": 8,
-      "Rank": 269,
+      "Rank": 268,
       "DisplayName": "eCash (XEC)"
     },
     {
@@ -317,7 +317,7 @@
     {
       "SymbolString": "CAKE",
       "DecimalPlaces": 3,
-      "Rank": 127,
+      "Rank": 128,
       "DisplayName": "PancakeSwap (CAKE)"
     },
     {
@@ -395,13 +395,13 @@
     {
       "SymbolString": "1INCH",
       "DecimalPlaces": 4,
-      "Rank": 287,
+      "Rank": 286,
       "DisplayName": "1INCH (1INCH)"
     },
     {
       "SymbolString": "LPT",
       "DecimalPlaces": 3,
-      "Rank": 298,
+      "Rank": 297,
       "DisplayName": "Livepeer (LPT)"
     },
     {
