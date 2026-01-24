@@ -17,7 +17,7 @@
     {
       "SymbolString": "SOL",
       "DecimalPlaces": 2,
-      "Rank": 70,
+      "Rank": 7,
       "DisplayName": "Solana (SOL)"
     },
     {
@@ -89,13 +89,13 @@
     {
       "SymbolString": "SUI",
       "DecimalPlaces": 4,
-      "Rank": 29,
+      "Rank": 30,
       "DisplayName": "Sui (SUI)"
     },
     {
       "SymbolString": "NEAR",
       "DecimalPlaces": 3,
-      "Rank": 59,
+      "Rank": 58,
       "DisplayName": "NEAR (NEAR)"
     },
     {
@@ -119,7 +119,7 @@
     {
       "SymbolString": "ICP",
       "DecimalPlaces": 3,
-      "Rank": 58,
+      "Rank": 59,
       "DisplayName": "Internet Computer (ICP)"
     },
     {
@@ -185,7 +185,7 @@
     {
       "SymbolString": "IMX",
       "DecimalPlaces": 3,
-      "Rank": 267,
+      "Rank": 269,
       "DisplayName": "Immutable X (IMX)"
     },
     {
@@ -263,7 +263,7 @@
     {
       "SymbolString": "ENS",
       "DecimalPlaces": 2,
-      "Rank": 202,
+      "Rank": 203,
       "DisplayName": "Etherium Name Service (ENS)"
     },
     {
@@ -293,7 +293,7 @@
     {
       "SymbolString": "XEC",
       "DecimalPlaces": 8,
-      "Rank": 268,
+      "Rank": 267,
       "DisplayName": "eCash (XEC)"
     },
     {
@@ -503,7 +503,7 @@
     {
       "SymbolString": "JST",
       "DecimalPlaces": 5,
-      "Rank": 178,
+      "Rank": 177,
       "DisplayName": "JUST (JST)"
     },
     {
