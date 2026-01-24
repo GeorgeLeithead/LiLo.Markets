@@ -29,7 +29,7 @@
     {
       "SymbolString": "XRP",
       "DecimalPlaces": 4,
-      "Rank": 136,
+      "Rank": 5,
       "DisplayName": "Ripple (XRP)"
     },
     {
@@ -461,7 +461,7 @@
     {
       "SymbolString": "DASH",
       "DecimalPlaces": 2,
-      "Rank": 110,
+      "Rank": 111,
       "DisplayName": "DASH (DASH)"
     },
     {
